@@ -1,3 +1,4 @@
 .env
 dict/*.md?
 __pycache__/
+.vscode/
