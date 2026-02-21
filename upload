@@ -86,5 +86,5 @@ fi
 
 echo ""
 echo "Visit https://github.com/${GITHUB_USER}/${REPO_NAME}"
-echo "      https://hub.docker.com/r/${DOCKERHUB_USER}/${REPO_NAME}"
+echo "      https://hub.docker.com/r/${DOCKERHUB_USER}/${REPO_NAME}/tags"
 echo ""
