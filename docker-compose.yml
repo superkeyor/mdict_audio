@@ -1,7 +1,7 @@
 services:
-  mdict_audio_api:
-    image: superkeyor/mdict_audio_api:latest
-    container_name: mdict_audio_api
+  mdict_audio:
+    image: superkeyor/mdict_audio:latest
+    container_name: mdict_audio
     restart: unless-stopped
     ports:
       - "8000:8000"
