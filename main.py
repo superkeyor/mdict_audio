@@ -24,6 +24,7 @@ USAGE:
 """
 
 # Hardcoded paths for the embedded Docker dictionary files
+# This is a homebrew merged dict with vocabulary.com, webster, and longman American pronunciations
 MDX_PATH = "/app/dict/Vocabulary Webster Longman Dict.mdx"
 MDD_PATH = "/app/dict/Vocabulary Webster Longman Dict.mdd"
 
